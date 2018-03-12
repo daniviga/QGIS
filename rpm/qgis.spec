@@ -14,7 +14,7 @@
 
 Name:           qgis
 Version:        3.0.0
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        A user friendly Open Source Geographic Information System
 Group:          Applications/Engineering
 
@@ -370,6 +370,9 @@ update-mime-database %{?fedora:-n} %{_datadir}/mime &> /dev/null || :
 
 
 %changelog
+* %{builddate} Daniele Viganò <daniele@vigano.me> 3.0.0-4
+- Rebuild for GRASS 7.4.0
+
 * %{builddate} Daniele Viganò <daniele@vigano.me> 3.0.0-3
 - Patch qgis-server httpd config to address https://issues.qgis.org/issues/18230
 
