@@ -142,7 +142,7 @@ then
     --define "_relver $relver" \
     --define "_version $version" \
     --define "_timestamp $timestamp" \
-    --resultdir=$OUTDIR $mock_args -- -ne 0;
+    --resultdir=$OUTDIR $mock_args
   then
     print_error "Creating source package failed"
     exit 1
