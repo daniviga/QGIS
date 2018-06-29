@@ -13,6 +13,7 @@
  *                                                                         *
  ***************************************************************************/
 
+#include <QMatrix4x4>
 #include "qgsdemterraintilegeometry_p.h"
 #include <Qt3DRender/qattribute.h>
 #include <Qt3DRender/qbuffer.h>
