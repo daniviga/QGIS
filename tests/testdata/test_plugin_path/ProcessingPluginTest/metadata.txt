@@ -1,7 +1,0 @@
-[general]
-name=processing plugin test
-qgisMinimumVersion=3.8
-description=desc
-version=0.1
-author=matt cauthin
-hasProcessingProvider=yes

@@ -1,8 +1,0 @@
-{
-  "name": "file_exists",
-  "type": "function",
-  "description": "Returns true if a file path exists.",
-  "arguments": [ {"arg":"path","description":"a file path"}],
-  "examples": [ { "expression":"file_exists('/home/qgis/data/country_boundaries.shp')", "returns":"true"}]
-}
-

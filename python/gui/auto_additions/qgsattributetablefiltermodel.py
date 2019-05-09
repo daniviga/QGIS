@@ -1,3 +1,0 @@
-# The following has been generated automatically from src/gui/attributetable/qgsattributetablefiltermodel.h
-QgsAttributeTableFilterModel.FilterMode.baseClass = QgsAttributeTableFilterModel
-QgsAttributeTableFilterModel.ColumnType.baseClass = QgsAttributeTableFilterModel
