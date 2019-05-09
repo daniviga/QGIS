@@ -1,7 +1,0 @@
-pep8
-pexpect
-capturer
-sphinx
-requests
-future
-six
